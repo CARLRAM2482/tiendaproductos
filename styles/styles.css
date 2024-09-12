@@ -29,6 +29,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    margin-top: 70px;
+    border:  solid;
   }
   
   .product {
@@ -37,7 +39,12 @@
     padding: 10px;
     margin: 10px;
     text-align: center;
-    width: 45%;
+    width: 25%;
+    border: solid;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
   }
   
   .product img {
