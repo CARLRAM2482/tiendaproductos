@@ -15,13 +15,15 @@
   /* Header */
   header {
     text-align: center;
-    background-color: #333;
+    background-color: #7695FF;
     color: white;
-    padding: 20px;
+    padding: 50px;
+    border: solid #FABC3F;
+    margin-bottom: 10px;
   }
   
   h1 {
-    font-size: 24px;
+    font-size: 40px;
   }
   
   /* Productos */
@@ -30,7 +32,7 @@
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 70px;
-    border:  solid;
+    border:  solid #A1D6B2;
   }
   
   .product {
@@ -40,7 +42,7 @@
     margin: 10px;
     text-align: center;
     width: 25%;
-    border: solid;
+    border: solid #229799;
     margin-top: 50px;
     margin-left: 100px;
     margin-right: 100px;
